@@ -1,0 +1,12 @@
+Many things to update in Chapter 7 that were outdated.
+--> these took all day to figure out! don't lose this data!
+
+- compare each updated file to the ones in the repo from the book
+
+Terminal 1:
+webpack
+
+npm run dev-all
+
+Terminal 2:
+npm run start-hook
